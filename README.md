@@ -1,5 +1,5 @@
-# Compiladores-2018-2 :computer: :nerd_face:
-Programas entregados para la clase de Compiladores durante el semestre 2018-2 en la Facultad de Ingeniería, UNAM.
+# Sistemas Operativos-2018-2 :computer: :nerd_face:
+Programas entregados para la clase de Sistemas Operativos durante el semestre 2018-2 en la Facultad de Ingeniería, UNAM.
 
 ## Programa 1. Factorial con hilos
 Este programa hace uso de hilos. En él, el hilo principal crea un hilo secundario, el cual se encarga de obtener el factorial de un número dado por el usuario (entre 1 y 5) a través del teclado y, el resultado es devuelto al hilo principal haciendo uso de las funciones pthread_exit() y pthread_join
